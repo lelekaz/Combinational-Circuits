@@ -23,10 +23,10 @@ For 2's complement numbers, ALWAYS ignore the Cout output because the Cout digit
 
 	Examples:
 	  0100+0011=0111; Invalid=0
-                Since the correct answer is within the range from 1000 to 0111, then the answer is valid,                 displaying a 0 for the "Invalid" probe.
+                Since the correct answer is within the range from 1000 to 0111, then the answer is valid, displaying a 0 for the "Invalid" probe.
           0100+0100=0000; Invalid=1
-                Since the correct answer is not within the range from 1000 to 0111, then the answer is                   invalid displaying a 1 for the "Invalid" probe.
+                Since the correct answer is not within the range from 1000 to 0111, then the answer is invalid displaying a 1 for the "Invalid" probe.
           1000+0111=1111; Invalid=0
-                Since the correct answer is within the range from 1000 to 0111, then the answer is valid,                 displaying a 0 for the "Invalid" probe.
+                Since the correct answer is within the range from 1000 to 0111, then the answer is valid, displaying a 0 for the "Invalid" probe.
           1010+1010=0100
-                Since the correct answer is not within the range from 1000 to 0111, then the answer is                   invalid, displaying a 1 for the "Invalid" probe.
+                Since the correct answer is not within the range from 1000 to 0111, then the answer is invalid, displaying a 1 for the "Invalid" probe.
