@@ -1,5 +1,3 @@
-Exercise 4:
-
 Exercise 5: Adders
 
 Purpose:
