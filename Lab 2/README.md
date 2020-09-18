@@ -9,6 +9,7 @@ This circuit takes in two 4-bit numbers (A B C D and E F G H) and adds them toge
 a 4-bit number (S3 S2 S1 S0).
 
 How to Use:
+
 Input
 	-First, choose the context of your 4-bit numbers.
 		0: Unsigned Number System
@@ -16,6 +17,7 @@ Input
 	-Second, input the two 4-bit numbers that you want to add together. The first 4-bit number can
 	be put into the first hex keyboard (A B C D), and the second 4-bit number can be put into the
 	second keyboard (E F G H).
+	
 Output
 	-For unsigned...
 		ALWAYS ignore the Cout output because the Cout digit would make the number a 5-bit number.
